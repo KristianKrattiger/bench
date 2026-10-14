@@ -7,7 +7,7 @@ a person touches it: a research workstation for reviewing what Receipts
 produced, writing down judgment, and keeping that judgment as data instead
 of throwing it away.
 
-**Status: design stage.** This repo currently holds the architecture, not
+**Status: parked (2026-10-14), design stage.** Nothing that pays needs Bench yet, so it waits under the two-client rule: build it when a real reviewer has Receipts ledgers to work through. This repo currently holds the architecture, not
 the implementation. See [architecture.md](architecture.md) for the detailed
 overview-level design, including the phased build plan. Nothing below the
 "Run locally" heading works yet — it documents the intended interface.
